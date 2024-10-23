@@ -1,0 +1,5 @@
+fich1:/home/usuario:usuario:usuario:fich1
+fich2:/home/usuario:usuario:usuario:fich2
+fich3:/home/usuario:usuario:usuario:fich3
+fich4:/home/usuario:usuario:usuario:fich4
+fich5:/home/usuario:usuario:usuario:fich5
